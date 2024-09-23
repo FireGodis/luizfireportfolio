@@ -43,10 +43,15 @@ Para garantir a segurança do usuário, o site possui certificado SSL, asseguran
 ## 🤝 Colaboração e Feedback
 Estou sempre aberto a feedbacks e sugestões! Você pode deixar seu comentário diretamente na seção de contato do site ou nas redes sociais. Sua opinião é fundamental para que eu continue melhorando o portfólio e oferecendo uma experiência cada vez melhor.
 
+# ATENÇÃO
+Na linha 56 de contact.html o token foi retirado por motivos de segurança, caso queira que seu site tenha a mesma funcionalidade, acesse https://startbootstrap.com/solution/contact-forms para mais informações.
+
+##Obrigado por ler até aqui, e até mais!
 
 
 
-Acesse clicando em https://luizfireportfolio.rf.gd/
+
+Acesse meu portfólio clicando em https://luizfireportfolio.rf.gd/
 
 ## Links
 
