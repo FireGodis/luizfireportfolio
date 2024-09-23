@@ -46,7 +46,7 @@ Estou sempre aberto a feedbacks e sugestões! Você pode deixar seu comentário 
 # ATENÇÃO
 Na linha 56 de contact.html o token foi retirado por motivos de segurança, caso queira que seu site tenha a mesma funcionalidade, acesse https://startbootstrap.com/solution/contact-forms para mais informações.
 
-##Obrigado por ler até aqui, e até mais!
+### Obrigado por ler até aqui, e até mais!
 
 
 
